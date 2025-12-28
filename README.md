@@ -1,4 +1,8 @@
 # Outreachy_Nwajiunor_2023
-Task #1 for the Moja Global Community's Outreachy December 2023 contribution phase, involving the integration of land sector data with the Sustainable Development Goals (SDGs) project, is available in this repository.
+This repository contains the work completed during the Outreachy December 2023 Contribution Phase with the Moja Global community, focused on integrating land sector datasets with the Sustainable Development Goals (SDGs).
 
-The task involves carrying out Exploratory Data Analysis using the available land sector datasets. The aim of the analysis is to carry out Exploratory Data Analysis on the administrative, bioclimatic & ecological zones, land cover and soil categories of the land sector dataset for Nigeria.
+FOr task 1, it involved conducting exploratory geospatial data analysis (EDA) on land sector datasets to support climate, environmental, and development-focused insights.
+
+The analysis focused on Nigeria, covering: Administrative boundaries, Bioclimatic and ecological zones, Land cover classifications, and Soil categories
+
+More details on Task 2 -5 can be found here; https://github.com/Temiwaji/Land_Sector_Datasets/tree/master/Outreachy_Nwajiunor_2023 
